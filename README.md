@@ -6,3 +6,4 @@
 - **CV project** #Python #Keras #обработка изображени #нейронные сети
 - **Comments project** #Python #Pandas #nltk #TfidfVectorizer #очистка и лемматизация текста #TF-IDF #LightGBM
 - **Taxi study** #Python #Pandas #временные ряды #time rows
+- **Steel study** #Python #Pandas #catboost #GridSearchCV #LightGBM #объединение #анализ факторов
